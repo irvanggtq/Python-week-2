@@ -28,7 +28,7 @@
 - Case insensitive : _sort()_ method is case sensitive, resulting in all capital letters being sorted before lower case letters. Use _str.lower_ as a key function to sort by the first letter.
 
 # Operator, Operands, and Expressions
-## Arithmetic Operators
+### Arithmetic Operators
 - (+) Addition
 - (-) Subtraction
 - (*) Multiplication
@@ -37,7 +37,7 @@
 - (//) Floor division
 - (%) Modulus
 
-## Comparison Operators
+### Comparison Operators
 - (==) Equal
 - (!=) Not equal
 - (>) Grater than
