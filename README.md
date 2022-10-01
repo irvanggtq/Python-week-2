@@ -70,6 +70,15 @@ Else statement block will execute only when the if condition becomes false. It i
 Elif statement is used to check multiple conditions only if the given condition is false. It’s similar to an else statement and the only difference is that in “else” we will not check the condition but in “elif” we will check the condition.
 
 # For and While Loop
+## For Loop
+For loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).
+With the for loop we can execute a set of statements, once for each item in a list, tuple, set etc.
+## Nested for loop
+A nested for loop is a for loop inside a for loop.
+The "inner loop" will be executed one time for each iteration of the "outer loop":
+## If inside for loop
+Inside a for loop, you can use if statements as well.
+to execute program if expression is true
 ## Else After For
 - The else function after for takes precedence on a repeat of a search nature, to provide a way out of the program when the search is not found.
 
