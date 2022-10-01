@@ -63,21 +63,21 @@ Assignment operators are used to assign values to variables
 
 # Conditional Expression
 ## if statement 
-if statement is conditional statement to decides whether certain statements need to be executed or not. It checks for a given condition, if the condition is true, then the set of code present inside the ” if ” block will be executed otherwise not.
+- if statement is conditional statement to decides whether certain statements need to be executed or not. It checks for a given condition, if the condition is true, then the set of code present inside the ” if ” block will be executed otherwise not.
 ## else statement
-Else statement block will execute only when the if condition becomes false. It is the block where you will perform some actions when the condition is not true.
+- Else statement block will execute only when the if condition becomes false. It is the block where you will perform some actions when the condition is not true.
 ## elif statement 
-Elif statement is used to check multiple conditions only if the given condition is false. It’s similar to an else statement and the only difference is that in “else” we will not check the condition but in “elif” we will check the condition.
+- Elif statement is used to check multiple conditions only if the given condition is false. It’s similar to an else statement and the only difference is that in “else” we will not check the condition but in “elif” we will check the condition.
 
 # For and While Loop
 ## For Loop
-For loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).
+- For loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).
 With the for loop we can execute a set of statements, once for each item in a list, tuple, set etc.
 ## Nested for loop
-A nested for loop is a for loop inside a for loop.
+- A nested for loop is a for loop inside a for loop.
 The "inner loop" will be executed one time for each iteration of the "outer loop":
 ## If inside for loop
-Inside a for loop, you can use if statements as well.
+- Inside a for loop, you can use if statements as well.
 to execute program if expression is true
 ## Else After For
 - The else function after for takes precedence on a repeat of a search nature, to provide a way out of the program when the search is not found.
