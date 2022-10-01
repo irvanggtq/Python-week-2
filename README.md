@@ -61,6 +61,15 @@ Assignment operators are used to assign values to variables
 - //= : x //=3 same as x = x // 3
 - %= : x %=3 same as x = x % 3
 
+#Conditional Expression
+
+##if statement 
+if statement is conditional statement to decides whether certain statements need to be executed or not. It checks for a given condition, if the condition is true, then the set of code present inside the ” if ” block will be executed otherwise not.
+##else statement
+Else statement block will execute only when the if condition becomes false. It is the block where you will perform some actions when the condition is not true.
+##elif statement 
+Elif statement is used to check multiple conditions only if the given condition is false. It’s similar to an else statement and the only difference is that in “else” we will not check the condition but in “elif” we will check the condition.
+
 # For and While Loop
 ## Else After For
 - The else function after for takes precedence on a repeat of a search nature, to provide a way out of the program when the search is not found.
