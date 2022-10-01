@@ -28,7 +28,7 @@
 - Case insensitive : _sort()_ method is case sensitive, resulting in all capital letters being sorted before lower case letters. Use _str.lower_ as a key function to sort by the first letter.
 
 # Operator, Operands, and Expressions
-### Arithmetic Operators
+## Arithmetic Operators
 - (+) Addition
 - (-) Subtraction
 - (*) Multiplication
@@ -37,7 +37,7 @@
 - (//) Floor division
 - (%) Modulus
 
-### Comparison Operators
+## Comparison Operators
 - (==) Equal
 - (!=) Not equal
 - (>) Grater than
@@ -60,24 +60,25 @@ Assignment operators are used to assign values to variables
 - //= : x //=3 same as x = x // 3
 - %= : x %=3 same as x = x % 3
 
-# Else After For
+# For and While Loop
+## Else After For
 - The else function after for takes precedence on a repeat of a search nature, to provide a way out of the program when the search is not found.
 
-# While
+## While
 - "While" on python is used to execute statements as long as the given condition is met (True)
 - The condition can be any expression, please remember that True in Python includes all non-zero values
 - When the condition becomes false, the program will proceed to the line after the statement block
 
-# Break
+## Break
 - The break statement in Python terminates the current loop and resumes execution at the next statement.
 - If you have a tiered loop, the break will stop the loop according to the level or the loop where it is located
 - However, if it is placed for example in a loop with a second depth, then only stops is that loop, not with the main loop
 
-# Continue
+## Continue
 - A continue statement will make the current iteration stop, then move on to the next iteration.
 - The output will ignore statements that are between continue to the end of the looping block
 
-# Pass
+## Pass
 - This control is widely used when we have not implemented or prepared a place for implementation, as well as leaving the program running when experiencing errors or exceptions.
 - Pass statement is an operation of null (empty), nothing happens when it is called
 
