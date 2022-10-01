@@ -1,4 +1,4 @@
-# Python Part 2
+# Python Week 2
 # Operation in List, Set, and String
 ## len()
 - The len() function returns the number of items in an object. When the object is a string, the len() function returns the number of characters in the string.
