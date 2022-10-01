@@ -100,3 +100,15 @@ to execute program if expression is true
 - This control is widely used when we have not implemented or prepared a place for implementation, as well as leaving the program running when experiencing errors or exceptions.
 - Pass statement is an operation of null (empty), nothing happens when it is called
 
+## List Comprehension
+- List comprehension offers a shorter syntax when you want to create a new list based on the values of an existing list.
+
+## Syntax Errors
+- Python doesn't understand of the command
+- Usually happens when you start studying
+- Improper indent placement
+
+## Exceptions
+- Even if the statement or expression from Python is correct, it is possible that an error may occur when executing
+- Errors during the process are called "Exceptions", and if left unchecked, they can have bad consequences
+- Most exceptions cannot be handled by the application, so the application crashes and an error appears
