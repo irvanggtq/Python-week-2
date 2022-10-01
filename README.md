@@ -23,9 +23,9 @@
 - Python has the best practical way. We can give values in multiple variables from list and tuple elements. The amount of variable and item must have same amount and we can change two or more variables
 
 ## Sort List
-- Ascending : sort() method that will sort the list ascending, by default.
-- Descending : To sort descending, use the keyword argument reverse = True.
-- Case insensitive : sort() method is case sensitive, resulting in all capital letters being sorted before lower case letters. Use str.lower as a key function to sort by the first letter.
+- Ascending : _sort()_ method that will sort the list ascending, by default.
+- Descending : To sort descending, use the keyword argument _reverse = True_.
+- Case insensitive : _sort()_ method is case sensitive, resulting in all capital letters being sorted before lower case letters. Use _str.lower_ as a key function to sort by the first letter.
 
 # Else After For
 - The else function after for takes precedence on a repeat of a search nature, to provide a way out of the program when the search is not found.
