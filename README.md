@@ -27,6 +27,39 @@
 - Descending : To sort descending, use the keyword argument _reverse = True_.
 - Case insensitive : _sort()_ method is case sensitive, resulting in all capital letters being sorted before lower case letters. Use _str.lower_ as a key function to sort by the first letter.
 
+# Operator, Operands, and Expressions
+## Arithmetic Operators
+- (+) Addition
+- (-) Subtraction
+- (*) Multiplication
+- (**) Power
+- (/) Division
+- (//) Floor division
+- (%) Modulus
+
+## Comparison Operators
+- (==) Equal
+- (!=) Not equal
+- (>) Grater than
+- (<) Less than
+- (>=) Greater than or equal to
+- (<=) Less than or equal to
+
+## Boolean Operators
+- AND : returns True if both statements are true.
+- OR : Returns True if one of the statements is true.
+- NOT : Reverse the result, returns False if the result is true.
+
+## Assignment Operators
+Assignment operators are used to assign values to variables
+- += : x +=3 same as x = x + 3
+- -= : x -=3 same as x = x - 3
+- *= : x *=3 same as x = x * 3
+- **= : x **=3 same as x = x ** 3
+- /= : x /=3 same as x = x / 3
+- //= : x //=3 same as x = x // 3
+- %= : x %=3 same as x = x % 3
+
 # Else After For
 - The else function after for takes precedence on a repeat of a search nature, to provide a way out of the program when the search is not found.
 
